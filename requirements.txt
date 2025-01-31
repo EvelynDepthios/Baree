@@ -1,6 +1,8 @@
 django
 gunicorn
 whitenoise
-psycopg2-binary
+# psycopg2-binary
 requests
 urllib3
+pytz
+pillow
